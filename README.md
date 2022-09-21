@@ -1,3 +1,3 @@
-# Clases-Mate2
+# Clases y Material
 
-Clases de Matemática 2 para Biología
+## Matemática II (Biología)
